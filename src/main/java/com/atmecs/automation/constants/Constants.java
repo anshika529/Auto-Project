@@ -15,11 +15,4 @@ public class Constants {
 	
 	public static final String GECKO_PATH=BASE_PATH+"/lib/geckodriver.exe";
 	
-//	//Excel File Constants
-//	public static final String TEST_DATA = RESOURCE_PATH + "/xlsxFile/Scenario1DataFile.xlsx";
-//	
-//	public static final String TEST_DATA2 = RESOURCE_PATH + "/xlsxFile/Scenario2DataFile.xlsx";       
-//    
-//    //Register patients Constants
-//    public static final String REGISTER_PATH = RESOURCE_PATH + "/registerPatientLocators.properties";
 }
